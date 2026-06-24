@@ -5,3 +5,5 @@
 azure-functions
 filetype
 azure-storage-blob
+msal
+requests
